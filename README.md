@@ -1,2 +1,1 @@
-# tinderdog
-static webpage (DATING SITE OF DOGS)
+TinDog Starting Files
